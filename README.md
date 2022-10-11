@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmrGaafer
 - 👀 I’m interested in Electrical Enginnering and Information Technology
-- 🌱 I’m currently learning C++ & Python
+- 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on Python, C++ projects or PLC programming projects
 - :link: Here is my LinkedIn link: https://www.linkedin.com/in/amawad/
 - :computer: Here is my Leetcode link: https://leetcode.com/AmrAwad/
