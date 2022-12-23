@@ -8,6 +8,6 @@
 - 📫 How to reach me, here is my e-mail: amr.gaafer88@gmail.com
 
 <!---
-AmrAwad88/AmrAwad88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AmrGaafer/AmrGaafer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
