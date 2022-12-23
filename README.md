@@ -5,7 +5,7 @@
 - :link: Here is my LinkedIn link: https://www.linkedin.com/in/amawad/
 - :computer: Here is my codewars link: https://www.codewars.com/users/AmrGaafer
 - :computer: Here is my Leetcode link: https://leetcode.com/AmrGaafer/
-- 📫 How to reach me, here is my e-mail: awad.amr1988@gmail.com
+- 📫 How to reach me, here is my e-mail: amr.gaafer88@gmail.com
 
 <!---
 AmrAwad88/AmrAwad88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
