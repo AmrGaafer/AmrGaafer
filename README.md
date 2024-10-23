@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmrGaafer
 - 👀 I’m interested in Electrical Enginnering and Information Technology. Software development is my passion since more than 10 years, I enjoy coding and problem solving!
-- 🌱 I’m currently learning Python & C++
+- 🌱 I’m currently learning Web Development (JS)
 - 💞️ I’m looking to collaborate on Python, C++ projects or PLC programming projects
 - :link: Here is my LinkedIn link: https://www.linkedin.com/in/amrgaafer/
 - :computer: Here is my codewars link: https://www.codewars.com/users/AmrGaafer
